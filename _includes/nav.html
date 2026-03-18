@@ -1,12 +1,14 @@
 <nav class="top-nav">
   <div class="nav-container">
-    <a class="logo" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="logo" href="{{ '/' | relative_url }}">
+      <i class="fa-solid fa-user-astronaut"></i> {{ site.title }}
+    </a>
     <ul>
-      <li><a href="{{ '/' | relative_url }}">Home</a></li>
-      <li><a href="{{ '/about' | relative_url }}">Chi sono</a></li>
-      <li><a href="{{ '/activities' | relative_url }}">Attività</a></li>
-      <li><a href="{{ '/interests' | relative_url }}">Interessi</a></li>
-      <li><a href="{{ '/contact' | relative_url }}">Contatti</a></li>
+      <li><a href="{{ '/' | relative_url }}"><i class="fa-solid fa-house"></i> Home</a></li>
+      <li><a href="{{ '/about' | relative_url }}"><i class="fa-solid fa-id-card"></i> Chi sono</a></li>
+      <li><a href="{{ '/activities' | relative_url }}"><i class="fa-solid fa-briefcase"></i> Attività</a></li>
+      <li><a href="{{ '/interests' | relative_url }}"><i class="fa-solid fa-heart"></i> Interessi</a></li>
+      <li><a href="{{ '/contact' | relative_url }}"><i class="fa-solid fa-envelope"></i> Contatti</a></li>
     </ul>
   </div>
 </nav>

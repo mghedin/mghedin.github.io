@@ -3,9 +3,10 @@
 For any inquiries, feel free to reach out!
 
 ## Email
-- mghedin@example.com
+- <a href="javascript:void(0)" onclick="this.href='mailto:mghedin@gmail.com'">Contact me</a>
 
 ## Social Links
 - [GitHub](https://github.com/mghedin)
-- [Twitter](https://twitter.com/mghedin)
-- [LinkedIn](https://linkedin.com/in/mghedin)
+- [Facebook]()
+- [LinkedIn](https://linkedin.com/in/?)
+- [Instagram]()

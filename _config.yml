@@ -1,4 +1,20 @@
-title: Max Ghedini
-description: My Personal Portfolio
-theme: jekyll-theme-architect
+title: "Max Ghedini"
+description: "My Personal Portfolio"
+baseurl: ""
+url: "https://tuo-username.github.io"
+
 markdown: kramdown
+theme: null
+
+sass:
+  style: compressed
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

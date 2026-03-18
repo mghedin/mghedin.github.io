@@ -1,4 +1,4 @@
-# Let's keep in touch
+# Let's keep in touch!
 
 For any inquiries, feel free to reach out!
 

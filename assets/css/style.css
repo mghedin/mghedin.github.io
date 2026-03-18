@@ -85,4 +85,14 @@ body {
   background: #1E3A8A;
   color: white;
   margin-top: 40px;
+
+  h2 i {
+  margin-right: 10px;
+  color: #1E3A8A;
+}
+
+.top-nav i {
+  margin-right: 6px;
+}
+
 }

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Max Ghedini - Portfolio
+---
+
 # Let's keep in touch!
 
 For any inquiries, feel free to reach out!

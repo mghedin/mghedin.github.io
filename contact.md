@@ -1,7 +1,10 @@
 ---
-layout: default
-title: Max Ghedini - Portfolio
+title: Contatti
 ---
+
+# Contatti
+
+Scrivimi a: **tu@email.com**
 
 # Let's keep in touch!
 

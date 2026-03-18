@@ -1,9 +1,9 @@
-# Contact Information
+# Let's keep in touch
 
 For any inquiries, feel free to reach out!
 
 ## Email
-- <a href="javascript:void(0)" onclick="this.href='mailto:mghedin@gmail.com'">Contact me</a>
+- mghedin [at] gmail [dot] com
 
 ## Social Links
 - [GitHub](https://github.com/mghedin)

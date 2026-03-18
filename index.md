@@ -3,8 +3,6 @@ layout: default
 title: Max Ghedini - Portfolio
 ---
 
-{% include nav.md %}
-
 # Hi, I'm Max Ghedini 👋
 
 Welcome to my portfolio! Here you'll find information about me, my projects, and how to get in touch.

@@ -1,5 +1,7 @@
 # Let's keep in touch!
 
+{% include nav.md %}
+
 For any inquiries, feel free to reach out!
 
 ## Email

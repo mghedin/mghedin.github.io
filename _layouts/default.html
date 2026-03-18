@@ -3,27 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} - {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  {{ site.theme }}
 </head>
 
 <body>
 
-  <header class="site-header">
-    <h1 class="site-title">{{ site.title }}</h1>
-    <p class="site-description">{{ site.description }}</p>
-  </header>
-
-  {% include nav.md %}
+  {% include nav.html %}
 
   <main class="content">
     {{ content }}
   </main>
 
-  <footer class="site-footer">
-    <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
+  {% include footer.html %}
 
 </body>
 </html>
